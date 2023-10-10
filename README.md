@@ -4,7 +4,8 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![Downloads](https://img.shields.io/github/downloads/finikigames/RuStore-unity-async/total.svg)](https://github.com/finikigames/RuStore-unity-async/releases)
 
-## Plugin provides two API's to call async methods:
+## Async Types
+Plugin provides two API's to call async methods:
 1. Task
 2. UniTask
 
