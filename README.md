@@ -11,6 +11,13 @@
 Task vesion available as is. To use UniTask extension, you need to define Scripting Define Symbols <br>RUSTORE_UNITASK</br> and import UniTask plugin to your project.
 [How to add Scripting Define Symbols](https://docs.unity3d.com/Manual/CustomScriptingSymbols.html)
 
+## Install
+You can add https://github.com/finikigames/RuStore-unity-async.git to Package Manager
+
+![image](https://user-images.githubusercontent.com/46207/79450714-3aadd100-8020-11ea-8aae-b8d87fc4d7be.png)
+
+or add "com.finikigames.rustore-async-extension": "https://github.com/finikigames/RuStore-unity-async.git" to Packages/manifest.json.
+
 ## Usage/Examples
 
 ```csharp
