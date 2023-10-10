@@ -4,7 +4,7 @@ using Cysharp.Threading.Tasks;
 using RuStore;
 using RuStore.BillingClient;
 
-namespace Payments.RuStore.Extensions {
+namespace RuStore.Extensions {
     public static class RuStoreAsyncApi {
         public static async UniTask<RuStoreApiResult<PaymentResult>> PurchaseProductAsync(this RuStoreBillingClient client, string itemSku, int quantity = 1, string developerPayload = "") {
             bool done = false;
